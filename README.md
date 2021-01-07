@@ -29,10 +29,10 @@ The goal is to collect the elemental coins, boxes and complete the four stages.
 - [Flag class](/flag.lua): Contains the parameters for the flag implementation.
 - [Font](/font.ttf): 04B_30 by Yuji Oshimoto.
 - [GUI Class](/gui.lua): Contains the parameters to display information on the stage screen as: lives, boxes, coins and the stage.
-- [Loser Class](/loser.lua): Contains the parameters to display the Game Over screen.
+- [Loser Class](/loser.lua): Contains the animation to display the Game Over screen.
 - [Main](/main.lua): Contains the parameters to run the game. Is the file that load, update and render the game.
 - [Map Class](/map.lua): Contains the parameters to load all the elements of the map for each stage.
 - [Messages](/messages.lua): Contains the parameters to display all the non playable screens and the current frames per second (FPS).
 - [Player Class](/Player.lua): Contains the player parameters as: the player initialization, animations, movement and physics.
 - [Power Class](/power.lua) Contains the parameters for the 3 powers the player can use.
-- [Winner](/winner.lua): Contains the parameters to display the victory screen.
+- [Winner](/winner.lua): Contains the animation to display victory screen.
