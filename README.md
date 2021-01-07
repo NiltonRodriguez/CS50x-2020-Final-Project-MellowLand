@@ -36,3 +36,9 @@ The goal is to collect the elemental coins, boxes and complete the four stages.
 - [Player Class](/Player.lua): Contains the player parameters as: the player initialization, animations, movement and physics.
 - [Power Class](/power.lua) Contains the parameters for the 3 powers the player can use.
 - [Winner](/winner.lua): Contains the animation to display victory screen.
+
+## Special Thanks.
+
+I want to thank all who participated on this project. My family support that has no limits, Joha who always listened and stayed with me no matter what.<br/>
+Simon Rahnasto who teach me a lot and brought me light when I needed.<br/>
+And the CS50 Crew that helped me to become better than I was on Week 0.
