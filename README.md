@@ -3,7 +3,7 @@
 
 ## Description:
 
-Mellow Land is a Platform game developed in Lua with Löve2D. Inspired on Mario, Megaman, Kirby and other classic platform games.
+Mellow Land is a Platform game developed in Lua with [Löve2D](https://love2d.org/) framework. Inspired on Mario, Megaman, Kirby and other classic platform games.
 
 The main character is Mellow, who have the ability to change element when collect the element Coins.
 
