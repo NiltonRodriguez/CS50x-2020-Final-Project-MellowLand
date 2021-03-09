@@ -16,6 +16,13 @@ Mellow can collect boxes and for each 15 boxes gain 1 life.
 
 The goal is to collect the elemental coins, boxes and complete the four stages.
 
+## Control keys:
+- Left / right arrows: Move.
+- Space: Jump.
+- C: Change element.
+- X: Shoot.
+- Z: Dash.
+
 ### Content:
 - [Assets](/assets): Contains all the images used in the game. All are my own design made on Autodesk Sketchbook and Procreate.
 - [Map](/map): For the map design I used Tiled, a tile map editor. This folder contains the map files (Tiled and Lua).
