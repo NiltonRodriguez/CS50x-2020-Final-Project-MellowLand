@@ -379,10 +379,10 @@ function Player:shoot(key)
         if self.element == 'wind' then
             if self.direction == 'right' then
                 Power.newBreeze(self.x + self.width - 25, self.y, 'right')
-                self.sfx['bubble']:play()
+                self.sfx['breeze']:play()
             elseif self.direction == 'left' then
                 Power.newBreeze(self.x - 75, self.y, 'left')
-                self.sfx['bubble']:play()
+                self.sfx['breeze']:play()
             end
         end
         if shooting then
