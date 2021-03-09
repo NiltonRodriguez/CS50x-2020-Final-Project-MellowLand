@@ -16,7 +16,7 @@ Mellow can collect boxes and for each 15 boxes gain 1 life.
 
 The goal is to collect the elemental coins, boxes and complete the four stages.
 
-## Control keys:
+### Control keys:
 - Left / right arrows: Move.
 - Space: Jump.
 - C: Change element.
